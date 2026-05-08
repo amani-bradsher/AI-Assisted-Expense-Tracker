@@ -1,7 +1,7 @@
 # AI-Assisted-Expense-Tracker
 A beginner-to-intermediate Python expense tracking application designed to help users manage spending, set budgeting goals, and view monthly financial summaries.
 
-This project was developed using Python and JSON data storage while incorporating AI-assisted “vibe coding” techniques to support debugging, feature development, and problem-solving throughout the development process.
+This project was planned and structured using workflow diagrams before being developed with Python and JSON data storage. AI-assisted development tools were used to support feature implementation, debugging, and problem-solving throughout the development process.
 
 ## Built With
 - Python
